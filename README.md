@@ -14,8 +14,6 @@ EiFit lets users register their protein intake through the 'Meet en Weet lijst',
 This App was originally developed for the ProIntens project of the Hogeschool van Amstredam, which aims to solve the problem of malnutrition among the elderly, especially with regard to protein intake. More information about ProIntens can be found here: 
 https://www.hva.nl/urban-vitality/gedeelde-content/projecten/voeding-en-beweging/prointens.html
 
-// Privacy English
-
 ### Informatie
 
 Hallo en welkom op de support pagina van de EiFit app, beschikbaar op in de Apple App Store en de Google Play Store. Op deze pagina vindt u een beschrijving van de app, en contactgegevens van de ontwikkelaars.
@@ -24,5 +22,3 @@ Met EiFit kan een gebruiker zijn/haar eiwitinname bijhouden met gebruik van de '
 
 Deze app was oorspronkelijk ontwikkeld in opdracht van het ProIntens project van de Hogeschool van Amsterdam. Dit project houdt zich bezig met het oplossen van ondervoeding bij ouderen, met de nadruk op eiwitinname. Klik hieronder voor meer informatie over ProIntens:
 https://www.hva.nl/urban-vitality/gedeelde-content/projecten/voeding-en-beweging/prointens.html
-
-// Privacy Nederlands
